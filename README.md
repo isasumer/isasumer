@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isasumer" alt="isasumer" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce MERN project*
+- 🔭 I’m currently working on **E-Commerce MERN project**
 
 - 🌱 I’m currently learning **Redux-Saga**
 
